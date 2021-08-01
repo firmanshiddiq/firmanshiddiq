@@ -22,8 +22,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](htt
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/firmanshiddiq">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=buefy"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=firmanshiddiq&layout=compact&langs_count=8&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=firmanshiddiq&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
